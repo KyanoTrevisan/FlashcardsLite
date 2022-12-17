@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Flashcardslite"
         mc:Ignorable="d" FontSize="16" FontFamily="Segoe UI Light"
         Title="WPF Flashcards - Modify flashcards" 
-        Height="300" Width="500" MinHeight="300" MinWidth="500"
+        Height="300" Width="600" MinHeight="300" MinWidth="500"
         WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid Grid.Column="1" Grid.Row="1" Grid.RowSpan="3">
