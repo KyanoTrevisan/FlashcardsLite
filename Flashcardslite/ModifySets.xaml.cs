@@ -5,28 +5,36 @@ using System.IO;
 using System.Windows;
 using System.Windows.Input;
 using Microsoft.Win32;
+using SQLite;
+using System.Windows.Controls;
+using System.Linq;
 
 namespace Flashcardslite
 {
-    /// <summary>
-    /// Interaction logic for Window1.xaml
-    /// </summary>
     public partial class ModifySets : Window
     {
+
         private MainWindow mainWindow;
+
         public ModifySets(MainWindow mainWindow)
         {
             InitializeComponent();
+
 
             this.mainWindow = mainWindow;
         }
 
         private void Window_Closing(object sender, CancelEventArgs e)
         {
-            
-
             mainWindow.Show();
         }
+
+        private void SaveButton_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+
     }
 
 
