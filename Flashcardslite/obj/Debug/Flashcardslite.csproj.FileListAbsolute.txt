@@ -88,3 +88,7 @@ C:\Users\kyatr\Downloads\DevOps\FlashcardsLite\Flashcardslite\Flashcardslite\obj
 C:\Users\kyatr\Downloads\DevOps\FlashcardsLite\Flashcardslite\Flashcardslite\obj\Debug\Flashcardslite.csproj.CopyComplete
 C:\Users\kyatr\Downloads\DevOps\FlashcardsLite\Flashcardslite\Flashcardslite\obj\Debug\Flashcardslite.exe
 C:\Users\kyatr\Downloads\DevOps\FlashcardsLite\Flashcardslite\Flashcardslite\obj\Debug\Flashcardslite.pdb
+C:\Users\kyatr\Downloads\DevOps\FlashcardsLite\Flashcardslite\Flashcardslite\bin\Debug\Flashcardslite.exe.manifest
+C:\Users\kyatr\Downloads\DevOps\FlashcardsLite\Flashcardslite\Flashcardslite\bin\Debug\Flashcardslite.application
+C:\Users\kyatr\Downloads\DevOps\FlashcardsLite\Flashcardslite\Flashcardslite\obj\Debug\Flashcardslite.exe.manifest
+C:\Users\kyatr\Downloads\DevOps\FlashcardsLite\Flashcardslite\Flashcardslite\obj\Debug\Flashcardslite.application

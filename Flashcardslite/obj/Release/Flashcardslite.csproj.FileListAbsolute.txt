@@ -18,3 +18,7 @@ C:\Users\kyatr\Downloads\FlashcardsLite\Flashcardslite\Flashcardslite\obj\Releas
 C:\Users\kyatr\Downloads\FlashcardsLite\Flashcardslite\Flashcardslite\obj\Release\Flashcardslite.csproj.CoreCompileInputs.cache
 C:\Users\kyatr\Downloads\FlashcardsLite\Flashcardslite\Flashcardslite\obj\Release\Flashcardslite.exe
 C:\Users\kyatr\Downloads\FlashcardsLite\Flashcardslite\Flashcardslite\obj\Release\Flashcardslite.pdb
+C:\Users\kyatr\Downloads\DevOps\FlashcardsLite\Flashcardslite\Flashcardslite\obj\Release\Flashcardslite.csproj.AssemblyReference.cache
+C:\Users\kyatr\Downloads\DevOps\FlashcardsLite\Flashcardslite\Flashcardslite\obj\Release\Flashcardslite.csproj.SuggestedBindingRedirects.cache
+C:\Users\kyatr\Downloads\DevOps\FlashcardsLite\Flashcardslite\Flashcardslite\obj\Release\Flashcardslite.exe
+C:\Users\kyatr\Downloads\DevOps\FlashcardsLite\Flashcardslite\Flashcardslite\obj\Release\Flashcardslite.pdb
