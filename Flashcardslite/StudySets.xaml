@@ -52,7 +52,7 @@
                                 <RowDefinition Height="auto"/>
                             </Grid.RowDefinitions>
 
-                            <TextBlock Text="Flashcard Sets:"/>
+                            <TextBlock Text="Study Sets:"/>
                             <ListBox x:Name="flashcardSetListBox" Grid.Row="1" Focusable="True" />
                             <Button x:Name="loadSetButton" Grid.Row="3" Content="Load Set" />
                         </Grid>
@@ -74,8 +74,6 @@
                             <RowDefinition Height="10"/>
                             <RowDefinition Height="25"/>
                         </Grid.RowDefinitions>
-
-                        <TextBlock x:Name="setTitle" TextAlignment="Center" Foreground="#7D7D7D" FontFamily="Segoe UI Light" FontSize="28" Grid.Column="2" Text="Load a set to start studying..."/>
 
                         <Button x:Name="previousFlashcardButton" Grid.Row="2" FontSize="24" Content="&#8592;" />
 
