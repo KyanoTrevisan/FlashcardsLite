@@ -15,9 +15,6 @@ using System.Windows.Shapes;
 
 namespace Flashcardslite
 {
-    /// <summary>
-    /// Interaction logic for Window2.xaml
-    /// </summary>
     public partial class StudySets : Window
     {
         private MainWindow mainWindow;

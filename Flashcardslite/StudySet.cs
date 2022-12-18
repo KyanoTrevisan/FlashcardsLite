@@ -16,7 +16,7 @@ namespace Flashcardslite
 
         public override string ToString()
         {
-            return $"{Id} - {Term} - {Definition}";
+            return $"{Id}. {Term} - {Definition}";
         }
     }
 }

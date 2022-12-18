@@ -99,6 +99,7 @@
     <Compile Include="ModifySets.xaml.cs">
       <DependentUpon>ModifySets.xaml</DependentUpon>
     </Compile>
+    <Compile Include="StudySet.cs" />
     <Compile Include="StudySets.xaml.cs">
       <DependentUpon>StudySets.xaml</DependentUpon>
     </Compile>
