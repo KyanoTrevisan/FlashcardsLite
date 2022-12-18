@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Flashcardslite"
         mc:Ignorable="d" FontSize="16" FontFamily="Segoe UI Light"
-        Title="WPF Flashcards - Modify flashcards" 
+        Title="StudySets"
         Height="300" Width="600" MinHeight="300" MinWidth="500"
         WindowStartupLocation="CenterScreen">
     <Grid>
@@ -25,9 +25,9 @@
 
                 <StackPanel Grid.Column="1" Grid.Row="1" Orientation="Vertical">
 
-                    <Button x:Name="createFlashcardsSetButton" Content="Create Flashcard Set" Margin="10" Click="CreateFlashcardsSetButton_Click" Height="50"/>
-                    <Button x:Name="studyFlashcardSetsButton" Content="Study Flashcard Sets" Margin="10" Click="StudyFlashcardSetsButton_Click" Height="50"/>
-                    <Button x:Name="quitApplicationButton" Content="Quit Application" Margin="10" Click="QuitApplicationButton_Click" Height="50"/>
+                    <Button x:Name="createFlashcardsSetButton" Content="Modify StudySet" Margin="10" Click="CreateFlashcardsSetButton_Click" Height="50"/>
+                    <Button x:Name="studyFlashcardSetsButton" Content="Study StudySet" Margin="10" Click="StudyFlashcardSetsButton_Click" Height="50"/>
+                    <Button x:Name="quitApplicationButton" Content="Quit" Margin="10" Click="QuitApplicationButton_Click" Height="50"/>
                 </StackPanel>
             </Grid>
         </Grid>

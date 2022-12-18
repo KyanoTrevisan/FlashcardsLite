@@ -21,6 +21,12 @@ namespace Flashcardslite
             this.mainWindow = mainWindow;
         }
 
+        private void Window_Closing(object sender, CancelEventArgs e)
+        {
+            
+
+            mainWindow.Show();
+        }
     }
 
 

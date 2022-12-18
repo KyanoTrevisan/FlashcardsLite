@@ -5,9 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Flashcardslite"
         mc:Ignorable="d" FontSize="16" FontFamily="Segoe UI Light"
-        Title="WPF Flashcards - Study sets" 
+        Title="StudySet - Studying..." 
         Height="600" Width="1000" MinHeight="600" MinWidth="1000"
-        WindowStartupLocation="CenterScreen">
+        WindowStartupLocation="CenterScreen" Closing="Window_Closing">
 
     <Grid>
 

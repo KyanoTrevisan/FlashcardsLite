@@ -5,9 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Flashcardslite"
         mc:Ignorable="d" FontSize="16" FontFamily="Segoe UI Light"
-        Title="WPF Flashcards - Modify Sets" 
+        Title="StudySets - Modify Sets" 
         Height="600" Width="1000" MinHeight="600" MinWidth="1000"
-        WindowStartupLocation="CenterScreen">
+        WindowStartupLocation="CenterScreen" Closing="Window_Closing">
     <Grid>
 
         <Grid Grid.Column="1" Grid.Row="1" Grid.RowSpan="3">
@@ -100,7 +100,7 @@
                 </Grid>
             </Border>
 
-            <Button x:Name="saveFlashcardSetButton" Grid.Column="1" Grid.Row="3" Content="Save Set" Height="50" Width="500"/>
+            <Button x:Name="saveFlashcardSetButton" Grid.Column="1" Grid.Row="3" Content="Save Set" Height="50" Width="500" />
         </Grid>
     </Grid>
 </Window>

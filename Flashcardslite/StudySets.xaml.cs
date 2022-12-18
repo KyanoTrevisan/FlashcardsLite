@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,10 +21,18 @@ namespace Flashcardslite
     public partial class StudySets : Window
     {
         private MainWindow mainWindow;
-
         public StudySets(MainWindow mainWindow)
         {
             InitializeComponent();
+
+            this.mainWindow = mainWindow;
+        }
+
+        private void Window_Closing(object sender, CancelEventArgs e)
+        {
+
+
+            mainWindow.Show();
         }
     }
 }
